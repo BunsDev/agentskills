@@ -347,4 +347,13 @@ export const clients = [
     darkSrc: "/images/logos/vita/logo-horizontal-dark.svg",
     instructionsUrl: "https://www.vita-ai.net/docs/features/agent-skills",
   },
+  {
+    name: "Superconductor",
+    description: "Superconductor is a multiplayer workspace for your team and coding agents. Run many agents in the cloud, build together in shared sessions, and ship faster with live app previews and guided code review.",
+    url: "https://superconductor.com/",
+    lightSrc: "/images/logos/superconductor/superconductor-wordmark-light.svg",
+    darkSrc: "/images/logos/superconductor/superconductor-wordmark-dark.svg",
+    scale: 1.33,
+    instructionsUrl: "https://superconductor.com/docs/project/mcp-and-skills",
+  },
 ];
